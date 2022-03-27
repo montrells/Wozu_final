@@ -1,4 +1,4 @@
-## Ionic Boilerplate
+## Ionic Project
 
 **Important!**
 - You will need to run `npm install` to install the dependencies from the package.json file before you can run the app.
